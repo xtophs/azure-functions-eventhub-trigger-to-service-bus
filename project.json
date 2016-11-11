@@ -1,0 +1,9 @@
+{
+  "frameworks": {
+    "net46": {
+      "dependencies": {
+        "Microsoft.Azure.WebJobs.ServiceBus": "1.1.2"
+      }
+    }
+  }
+}
